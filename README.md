@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://Mohazhar.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Karthick-blueviolet?style=for-the-badge&logo=github" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Mohammed Azharudeen-blueviolet?style=for-the-badge&logo=github" alt="Portfolio">
   </a>
 </p>
 
